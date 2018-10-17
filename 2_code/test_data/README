@@ -1,0 +1,7 @@
+    ###### Create test files. Correct output of test files is ######
+              ####### only in regards to i1 and i2 #######
+#Total reads with N: 4            (forward/reverse reads 1 and 7)
+#Total low quality reads: 4      (forward/reverse reads 8, and 9)
+#Total index hopped reads: 4      (forward/reverse reads 4, 5)
+#Total correct reads: 6           (forward/reverse 3, 6, 10)
+#Total indexes w/out N and not matching 24 expected: 2      (forward/reverse reads 2)

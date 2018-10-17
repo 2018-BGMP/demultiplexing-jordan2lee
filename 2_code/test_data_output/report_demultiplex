@@ -1,0 +1,10 @@
+Total reads passed (good): 6
+Proportion reads passed (good): 0.6
+Total reads with N: 4
+Proportion reads with N: 0.4
+Total reads with low quality: 4
+Proportion reads with low quality: 0.4
+Total reads with index hopping: 4
+Proportion reads with index hopping: 0.4
+Total reads without N and not matching expected barcodes: 2
+Proportion reads without N and not matching expected barcodes: 0.2
