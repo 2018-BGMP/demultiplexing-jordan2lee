@@ -1,0 +1,3 @@
+Finalized demultiplex code for test files: code_demultiplex.py (same as code_demultiplex.ipynb)
+
+Finalized deumltiplex code for full files (non-test files): talapas/full_demultiplex_slurm.py
